@@ -1,20 +1,18 @@
 # accufact
 
-Accufact
-
-The Challenge
+# The Challenge
 In the age of false information, individuals need a way to fact check news sources effortlessly as they browse the web. All of this must be done optimally across platforms to ensure that users are always presented with high quality information. Our challenge with this extension is being able to detect facts within a text, and then be able to retrieve credible sources with it. 
 
-Our solution
+# Our solution
 After engaging in needfinding with the Stanford professors, students, and researchers, we realized that a browser extension would enable users to be presented with analytics around the validity of viewed facts while maintaining their autonomy in deciding which news sources to visit. To do this, users will be presented with the following information:
 Number of sources with similar facts
 Ratings of sources with similar facts
 Source skew
 
-Our Live Demo
+# Our Live Demo
 Here
 
-Who We Are
+# Who We Are
 
 Member
 Bio
@@ -26,7 +24,7 @@ Darian Martos
 Darian is a senior majoring in Symbolic Systems. He is broadly interested in artificial intelligence and natural language processing, especially in the fields of language understanding and artificial consciousness. In the past, he has worked on other projects in deep learning and loves to keep up with the field. In his free time, he likes to read, swim, play virtual card games, or work on other side projects like his up-and-coming app foode.
 
 
-Our Development Timeline
+# Our Development Timeline
 Week
 Milestone
 Details
@@ -76,7 +74,7 @@ Figure out how to diffuse the extension widely, and conduct presentation and gen
 
 
  
-Acknowledgements
+# Acknowledgements
 We are grateful for the help and support from our instructors with CS+Social Good, including Jose Giron, Vik Pattabi, and many others.
 
 
