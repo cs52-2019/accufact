@@ -14,25 +14,16 @@ Here
 
 # Who We Are
 
-Member
-Bio
-Kyle Feliciano
-Kyle is a sophomore majoring in bioengineering. He is interested in tissue engineering and prosthetics design. He has researched in labs at Northwestern and Stanford, working on projects that include laser-tissue dynamics, hydrogels, and visual-to-motor learning pathways. In his freetime, Kyle likes watching Youtube, giving piano lessons to children, and composing music.
-Jackson Parell
-Jackson is a freshman  majoring in IR and Computer  science. He is interested in national security in the digital age. He works part time for a Venture capital fund that specializes in deep technology and machine learning, and is a research assistant at the Center for International Security and Development. In his freetime, he enjoys hiking, surfing, running – really just any activity outside.
-Darian Martos
-Darian is a senior majoring in Symbolic Systems. He is broadly interested in artificial intelligence and natural language processing, especially in the fields of language understanding and artificial consciousness. In the past, he has worked on other projects in deep learning and loves to keep up with the field. In his free time, he likes to read, swim, play virtual card games, or work on other side projects like his up-and-coming app foode.
+Member | Bio
+Kyle Feliciano | Kyle is a sophomore majoring in bioengineering. He is interested in tissue engineering and prosthetics design. He has researched in labs at Northwestern and Stanford, working on projects that include laser-tissue dynamics, hydrogels, and visual-to-motor learning pathways. In his freetime, Kyle likes watching Youtube, giving piano lessons to children, and composing music.
+Jackson Parell | Jackson is a freshman  majoring in IR and Computer  science. He is interested in national security in the digital age. He works part time for a Venture capital fund that specializes in deep technology and machine learning, and is a research assistant at the Center for International Security and Development. In his freetime, he enjoys hiking, surfing, running – really just any activity outside.
+Darian Martos | Darian is a senior majoring in Symbolic Systems. He is broadly interested in artificial intelligence and natural language processing, especially in the fields of language understanding and artificial consciousness. In the past, he has worked on other projects in deep learning and loves to keep up with the field. In his free time, he likes to read, swim, play virtual card games, or work on other side projects like his up-and-coming app foode.
 
 
 # Our Development Timeline
-Week
-Milestone
-Details
-Status
-2
-Plan ML framework, begin interface design
-Begin interface design by learning how to create components in React. ML framework will involve research in receiving fact queries using methods such as NER. By end of the week, should have considerable grasp of how to seek facts in a text query and understand what data to train on.
-In Process!
+Week | Milestone | Details |Status
+---|---|---|---
+2 | Plan ML framework, begin interface design | Begin interface design by learning how to create components in React. ML framework will involve research in receiving fact queries using methods such as NER. By end of the week, should have considerable grasp of how to seek facts in a text query and understand what data to train on. | In Process!
 3
 Implement fact querying, prototype database design,create downloads and settings pages
 Create a mock database, sketch out the design features of the database and consider potential ethical issues that may arise. Design downloads page and the settings page. From the ML framework with fact querying, implement the fact querying algorithm with PyTorch, and figure out how to merge the algorithm with the front end of the extension. 
